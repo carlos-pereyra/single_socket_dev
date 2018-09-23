@@ -11,7 +11,7 @@ from ctypes import *
 from user_settings import user_editable_settings
 settings = user_editable_settings()
 
-ooga
+#ooga booga
 
 class main_class:
 
